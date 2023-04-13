@@ -1,0 +1,53 @@
+
+.contentImg {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px 0px 0 20px;
+  }
+  
+  .contentP {
+    display: inline-block;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    background-color: orange;
+  }
+  .buttonDELETE {
+    width: 130px;
+    height: auto;
+    border-radius: 5px;
+    background-color: brown;
+    padding: 7px;
+    color: white;
+    border: none;
+    margin-left: 10px;
+  }
+  .buttonEDIT {
+    width: 90px;
+    height: auto;
+    background-color: darkblue;
+    padding: 7.4px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    margin: 30px 10px;
+  
+  }
+  .childDiv {
+    margin-left: 20px;
+  }
+  .divMainContent {
+    width: 45%;
+    height: auto;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.pixabay.com/photo/2022/10/03/21/47/fog-7496901__480.jpg");
+  }
+  
